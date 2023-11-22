@@ -1,6 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
-# Based on https://github.com/xuchen-ethz/continuous_view_synthesis/blob/master/data/kitti_data_loader.py
-
 import torch
 import numpy as np
 from scipy.spatial.transform import Rotation as ROT
