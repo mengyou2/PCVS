@@ -17,7 +17,7 @@ To get started, please create the conda environment `pvcs` by running
 conda env create -f environment.yml
 
 ```
-Please also install Pytorch3D(https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
+Please also install [Pytorch3D](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
 ### Training
 
 To train the model by running
