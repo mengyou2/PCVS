@@ -1,0 +1,20 @@
+# To run: conda env create -f environment.yml
+name: pvcs
+channels:
+    - conda-forge
+dependencies:
+    - python=3.8
+    - pip
+    - cudatoolkit=11.1.1
+    - ninja
+    - numpy
+    - matplotlib
+    - imageio=2.9.0
+    - imageio-ffmpeg=0.4.8 
+    - configargparse
+    - imagemagick
+    - pillow
+    - torch=1.8.0
+
+
+
