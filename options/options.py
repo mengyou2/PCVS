@@ -1,4 +1,5 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+
+
 
 def get_model(opt):
     print("Loading model %s ... ")
