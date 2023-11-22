@@ -1,7 +1,4 @@
-# MIT Licence
 
-# Methods to predict the SSIM, taken from
-# https://github.com/Po-Hsun-Su/pytorch-ssim/blob/master/pytorch_ssim/__init__.py
 
 from math import exp
 
